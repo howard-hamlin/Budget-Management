@@ -5,7 +5,7 @@ public class CentralLibrary extends Library {
 
     @Override
     public String getName()  {
-        try {
+        try { 
             Thread.sleep(3000);
         } catch (InterruptedException e) {
             e.printStackTrace();
