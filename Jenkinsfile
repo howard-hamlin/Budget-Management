@@ -22,4 +22,4 @@ pipeline {
     sendNotificationToCDDCall projectName: 'NatWest', scope: 'BUSINESS_APPLICATION', businessApplicationName: 'NatWest ClearSpend'
   }
  }
-}
+} 
